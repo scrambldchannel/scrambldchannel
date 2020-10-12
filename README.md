@@ -1,5 +1,5 @@
 ### Hi there
 
 - Berlin based TM1, data and Python enthusiast
-- Currently working on on Airflow, TM1py and a few data projects
+- Currently working TM1py, Airflow and a few other things
 - Infrequent [blogger](http://scrambldchannel.github.io)
