@@ -1,5 +1,5 @@
 ### Hi there
 
-- Berlin based TM1, data and Python enthusiast
-- Currently working TM1py, Airflow and a few other things
+- Berlin based TM1, BI, data and Python enthusiast
+- Currently working TM1py, Airflow and playing around with Gridsome
 - https://dashingelephant.xyz
