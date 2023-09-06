@@ -1,7 +1,6 @@
 ### Hi there
 
-- Berlin based TM1, BI, data and Python enthusiast
-- Currently working with Python, TM1, Big Query, Airflow and dbt. Also had some backend fun recently with FastAPI
+- Berlin based data enthusiast
+- Currently working with Python, [Big Query, Snowflake], Airflow and dbt. 
 - https://dashingelephant.xyz
 
-When not green here I might be getting paid to be [ni-asutcliffe](https://github.com/ni-asutcliffe) (or might just be outdoors instead)
